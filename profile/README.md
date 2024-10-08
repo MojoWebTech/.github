@@ -42,13 +42,13 @@ Meet the talented individuals who form the backbone of Mojo Web Technology. Our 
 
 | Name | Role | Expertise | Image |
 |------|------|-----------|-------|
-| Yash Baheti | Lead Software Engineer | Full-stack development, System Architecture | <img src="https://mojowebtech.com/img/Teams/yashT.webp" alt="Yash Baheti" width="100"> |
-| Aadish Bansal | HR & Operations Manager | Talent Acquisition, Team Building | <img src="https://mojowebtech.com/img/Teams/aadishT.webp" alt="Aadish Bansal" width="100"> |
-| Mohan Rathore | Senior Full Stack Developer | MERN Stack, Cloud Services | <img src="https://mojowebtech.com/img/Teams/mohanT.webp" alt="Mohan Rathore" width="100"> |
-| Prashant Kumar | Full Stack Developer | Laravel, Vue.js, MySQL | <img src="https://mojowebtech.com/img/Teams/prashantT.webp" alt="Prashant Kumar" width="100"> |
-| Devansh Dwivedi | Full Stack Developer | React, Node.js, MongoDB | <img src="https://mojowebtech.com/img/Teams/devanshT.webp" alt="Devansh Dwivedi" width="100"> |
-| Chayan Pandit | Frontend Specialist | React, Angular, UI/UX Design | <img src="https://mojowebtech.com/img/Teams/chayanT.webp" alt="Chayan Pandit" width="100"> |
-| Prashant Kumar | Backend Developer | Python, Django, PostgreSQL | <img src="https://mojowebtech.com/img/Teams/prashantkT.webp" alt="Prashant Kumar" width="100"> |
+| Yash Baheti | Lead Software Engineer | Full-stack development, System Architecture | <img src="https://mojowebtech.com/img/Teams/yashT.webp" alt="Yash Baheti" width="80"> |
+| Aadish Bansal | HR & Operations Manager | Talent Acquisition, Team Building | <img src="https://mojowebtech.com/img/Teams/aadishT.webp" alt="Aadish Bansal" width="80"> |
+| Mohan Rathore | Senior Full Stack Developer | MERN Stack, Cloud Services | <img src="https://mojowebtech.com/img/Teams/mohanT.webp" alt="Mohan Rathore" width="80"> |
+| Prashant Kumar | Full Stack Developer | Laravel, Vue.js, MySQL | <img src="https://mojowebtech.com/img/Teams/prashantT.webp" alt="Prashant Kumar" width="80"> |
+| Devansh Dwivedi | Full Stack Developer | React, Node.js, MongoDB | <img src="https://mojowebtech.com/img/Teams/devanshT.webp" alt="Devansh Dwivedi" width="80"> |
+| Chayan Pandit | Frontend Specialist | React, Angular, UI/UX Design | <img src="https://mojowebtech.com/img/Teams/chayanT.webp" alt="Chayan Pandit" width="80"> |
+| Prashant Kumar | Backend Developer | Python, Django, PostgreSQL | <img src="https://mojowebtech.com/img/Teams/prashantkT.webp" alt="Prashant Kumar" width="80"> |
 
 ## Our Vision
 
