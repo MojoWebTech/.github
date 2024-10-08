@@ -1,6 +1,9 @@
 # Mojo Web Technology
 
+<center>
 ![Mojo Web Technology Logo](https://mojowebtech.com/images/MojoWebTechnology.png)
+</center>
+
 
 ## About Us
 
