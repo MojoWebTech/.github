@@ -1,8 +1,5 @@
 # Mojo Web Technology
 
-
-## About Us
-
 Welcome to **Mojo Web Technology** – Where Innovation Meets Digital Excellence
 
 Founded in 2015, Mojo Web Technology has established itself as a premier provider of cutting-edge web solutions. Our name encapsulates our essence:
