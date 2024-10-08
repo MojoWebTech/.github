@@ -16,22 +16,24 @@ Over the years, we’ve built websites, web applications, and mobile apps for bu
 - Product R&D
 
 ## Technology Expertise
-We specialize in a variety of languages and technologies to meet your needs. Here’s a glimpse of the tools we use:
+We specialize in a wide variety of programming languages, frameworks, databases, and tools to meet the demands of the modern web. Here’s a selection of what we work with:
 
-| ![PHP](https://via.placeholder.com/20) PHP | ![JavaScript](https://via.placeholder.com/20) JavaScript | ![TypeScript](https://via.placeholder.com/20) TypeScript | ![Python](https://via.placeholder.com/20) Python | ![Vue.js](https://via.placeholder.com/20) Vue.js | ![Next.js](https://via.placeholder.com/20) Next.js |
+| ![PHP](https://via.placeholder.com/20) PHP | ![MERN](https://via.placeholder.com/20) MERN | ![Laravel](https://via.placeholder.com/20) Laravel | ![SQL](https://via.placeholder.com/20) SQL | ![MongoDB](https://via.placeholder.com/20) MongoDB | ![Google Firebase](https://via.placeholder.com/20) Firebase |
 |---|---|---|---|---|---|
+| ![Docker](https://via.placeholder.com/20) Docker | ![Meta Tools](https://via.placeholder.com/20) Meta Tools | ![JavaScript](https://via.placeholder.com/20) JavaScript | ![TypeScript](https://via.placeholder.com/20) TypeScript | ![Python](https://via.placeholder.com/20) Python | ![Vue.js](https://via.placeholder.com/20) Vue.js |
 
 ## Our Team
-Meet the people making the magic happen:
+Meet the talented individuals behind Mojo Web Technology. We pride ourselves on an all-rounder team capable of delivering on everything from classic tech like PHP to cutting-edge AI, Meta APIs, and more.
 
 | **Name**             | **Designation**        | **Image**  |
 |----------------------|------------------------|------------|
-| Yash Baheti           | Software Engineer      | ![Yash Baheti](https://mojowebtech.com/img/Teams/yashT.webp) |
-| Aadish Bansal         | Human Resources        | ![Aadish Bansal](https://mojowebtech.com/img/Teams/aadishT.webp) |
-| Mohan Rathore         | Full Stack Developer   | ![Mohan Rathore](https://mojowebtech.com/img/Teams/mohanT.webp) |
-| Prashant Kumar        | Full Stack Developer   | ![Prashant Kumar](https://mojowebtech.com/img/Teams/prashantT.webp) |
-| Devansh Dwivedi       | Full Stack Developer   | ![Devansh Dwivedi](https://mojowebtech.com/img/Teams/devanshT.webp) |
-| Chayan Pandit         | Full Stack Developer   | ![Chayan Pandit](https://mojowebtech.com/img/Teams/chayanT.webp) |
+| Yash Baheti           | Software Engineer      | <img src="https://mojowebtech.com/img/Teams/yashT.webp" alt="Yash Baheti" width="150px"> |
+| Aadish Bansal         | Human Resources        | <img src="https://mojowebtech.com/img/Teams/aadishT.webp" alt="Aadish Bansal" width="150px"> |
+| Mohan Rathore         | Full Stack Developer   | <img src="https://mojowebtech.com/img/Teams/mohanT.webp" alt="Mohan Rathore" width="150px"> |
+| Prashant Kumar        | Full Stack Developer   | <img src="https://mojowebtech.com/img/Teams/prashantT.webp" alt="Prashant Kumar" width="150px"> |
+| Devansh Dwivedi       | Full Stack Developer   | <img src="https://mojowebtech.com/img/Teams/devanshT.webp" alt="Devansh Dwivedi" width="150px"> |
+| Chayan Pandit         | Full Stack Developer   | <img src="https://mojowebtech.com/img/Teams/chayanT.webp" alt="Chayan Pandit" width="150px"> |
+| Prashant Kumar        | Full Stack Developer   | <img src="https://mojowebtech.com/img/Teams/prashantkT.webp" alt="Prashant Kumar" width="150px"> |
 
 ## Repositories
 Here are some of our key repositories:
