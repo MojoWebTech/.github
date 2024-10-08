@@ -1,6 +1,6 @@
 # Mojo Web Technology
 
-![Mojo Web Technology Logo](https://via.placeholder.com/150x50?text=Mojo+Web+Tech)
+![Mojo Web Technology Logo](https://mojowebtech.com/images/MojoWebTechnology.png)
 
 ## About Us
 
