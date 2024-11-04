@@ -36,18 +36,17 @@ At Mojo Web Technology, we pride ourselves on our diverse technological proficie
 
 Meet the talented individuals who form the backbone of Mojo Web Technology. Our diverse, all-rounder team excels in everything from classic technologies to cutting-edge AI and Meta APIs.
 
-| Name | Role | Expertise | Image |
-|------|------|-----------|-------|
-| Yash Baheti | Lead Software Engineer | Full-stack development, System Architecture | <img src="https://mojowebtech.com/img/Teams/yashT.webp" alt="Yash Baheti" width="80"> |
-| Aadish Bansal | HR & Operations Manager | Talent Acquisition, Team Building | <img src="https://mojowebtech.com/img/Teams/aadishT.webp" alt="Aadish Bansal" width="80"> |
-| Mohan Rathore | Senior Full Stack Developer | MERN Stack, Cloud Services | <img src="https://mojowebtech.com/img/Teams/mohanT.webp" alt="Mohan Rathore" width="80"> |
-| Prashant Kumar | Full Stack Developer | Laravel, Vue.js, MySQL | <img src="https://mojowebtech.com/img/Teams/prashantT.webp" alt="Prashant Kumar" width="80"> |
-| Devansh Dwivedi | Full Stack Developer | React, Node.js, MongoDB | <img src="https://mojowebtech.com/img/Teams/devanshT.webp" alt="Devansh Dwivedi" width="80"> |
-| Chayan Pandit | Frontend Specialist | React, Angular, UI/UX Design | <img src="https://mojowebtech.com/img/Teams/chayanT.webp" alt="Chayan Pandit" width="80"> |
-| Prashant Kumar | Backend Developer | Python, Django, PostgreSQL | <img src="https://mojowebtech.com/img/Teams/prashantkT.webp" alt="Prashant Kumar" width="80"> |
+| Name           | GitHub Username     | Role                    | Expertise                           | Image                                                                                           |
+|----------------|---------------------|-------------------------|-------------------------------------|-------------------------------------------------------------------------------------------------|
+| Yash Baheti    | [@butttons](https://github.com/butttons)          | Lead Software Engineer    | Full-stack development, System Architecture | <img src="https://mojowebtech.com/img/Teams/yashT.webp" alt="Yash Baheti" width="80">          |
+| Aadish Bansal  | [@SaurabhDhar](https://github.com/SaurabhDhar)    | HR & Operations Manager   | Talent Acquisition, Team Building     | <img src="https://mojowebtech.com/img/Teams/aadishT.webp" alt="Aadish Bansal" width="80">      |
+| Mohan Rathore  | [@smartmohan20](https://github.com/smartmohan20)  | Senior Full Stack Developer | MERN Stack, Cloud Services            | <img src="https://mojowebtech.com/img/Teams/mohanT.webp" alt="Mohan Rathore" width="80">       |
+| Prashant Kumar | [@03prashantpk](https://github.com/03prashantpk)  | Full Stack Developer      | Laravel, Vue.js, MySQL               | <img src="https://mojowebtech.com/img/Teams/prashantT.webp" alt="Prashant Kumar" width="80">    |
+| Devansh Dwivedi| [@devanshxdw](https://github.com/devanshxdw)      | Full Stack Developer      | React, Node.js, MongoDB              | <img src="https://mojowebtech.com/img/Teams/devanshT.webp" alt="Devansh Dwivedi" width="80">    |
+| Chayan Pandit  | [@chayanm24](https://github.com/chayanm24)        | Frontend Specialist       | React, Angular, UI/UX Design         | <img src="https://mojowebtech.com/img/Teams/chayanT.webp" alt="Chayan Pandit" width="80">       |
+| Prashant Kumar | [@Prashantkry](https://github.com/Prashantkry)    | Backend Developer         | Python, Django, PostgreSQL           | <img src="https://mojowebtech.com/img/Teams/prashantkT.webp" alt="Prashant Kumar" width="80">   |
 
 ## Our Vision
-
 At Mojo Web Technology, we aspire to be at the vanguard of the digital revolution. Our vision encompasses:
 
 1. **Innovation Leadership**: Continuously pushing the boundaries of what's possible in web technology
